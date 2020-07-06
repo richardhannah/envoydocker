@@ -1,0 +1,1 @@
+Invoke-RestMethod -method 'Get' -uri "http://localhost:8000/service/1"
