@@ -1,6 +1,7 @@
 usage
 
 run docker-compose up
+
 run test.sh to test the set up
 
 
